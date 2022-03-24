@@ -1,0 +1,55 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+  border: 2px;
+}
+
+p {
+  font-family: arial;
+  font-size: 14px;
+  color: green;
+  border: 1px
+  background-color: yellow;
+}
+.myDiv {
+  border: 2px;
+  border-style: dotted;
+  background-color: lightblue;
+  text-align: center;
+.intro {
+  border-style: widht 100px;
+}
+
+nav {
+	height: 30px;
+	background-color: yellow;
+	font-size: 1.6em;
+	font-weight: bold;
+	padding: 10px;
+	color: black;
+}
+
+section {
+	width: 80%;
+	height: auto;
+	overflow: hidden;
+	float: right;
+}
+
+ol {
+  font-family: arial;
+  font-size: 12px;
+  color: white;
+  list-style-type:lower-alpha;
+  }
+ul {
+  font-family: arial;
+  font-size: 12px;
+  color: white;
+  list-style-type:square;
+}
